@@ -1,5 +1,3 @@
-.
-.
 Multiclass Fish Image Classification
 
 📘 Project Overview
